@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hi 👋, I'm Nixon</h1>
-<h3 align="center">I'm a fullstack dev working with Javascript and Python I've dabbled in C# using unity and c++ 17. Very intrested in Computer Vision Applications.</h3>
+<h3 align="center">I'm a fullstack dev with experience in vr using webxr working with Javascript and Python I've dabbled in C# using unity and c++ 17. Very intrested in Computer Vision Applications.</h3>
 
 - 📫 Business inquiries **blender6216@hotmail.com**
 
