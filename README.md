@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nixon
+- 👋 Hi, I’m Wesey
 - 👀 I’m interested in VR Web DEV and Computer vision
 - 🌱 I’m currently learning unity
 - 📫 How to reach me twitter @avrdevv
